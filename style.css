@@ -1,0 +1,39 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.uk-navbar-nav>li>a {
+    font-family: 'Varela Round', sans-serif;
+}
+.uk-navbar {
+    background: transparent;
+}
+.uk-offcanvas {
+    background: transparent;
+}
+.uk-overlay-area {
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.7);
+}
+.uk-overlay-area h2 {
+    color: #fff;
+}
+.menu-social {
+    padding: 15px;
+}
+.menu-social a {
+    display: inline-block;
+    width: 30px;
+    padding: 5px 0;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    color: rgba(255,255,255,0.7);
+}
+.menu-social a:hover {
+    background: rgba(0,0,0,0.3);
+}
